@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbb332a9-50cb-46af-9e38-1daa9fe9fffb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dbb332a9-50cb-46af-9e38-1daa9fe9fffb" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -48,11 +46,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1425">
-              <caret line="95" column="52" selection-start-line="95" selection-start-column="52" selection-end-line="95" selection-end-column="52" />
+            <state relative-caret-position="178">
+              <caret line="129" column="103" selection-start-line="129" selection-start-column="103" selection-end-line="129" selection-end-column="103" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jmeter-results-detail-report_21.xsl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/jmeter-results-detail-report_21.xsl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="82" lean-forward="true" selection-start-line="5" selection-start-column="82" selection-end-line="5" selection-end-column="82" />
             </state>
           </provider>
         </entry>
@@ -64,11 +71,6 @@
               <caret line="2" column="34" selection-start-line="2" selection-end-line="2" selection-end-column="45" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="org.eclipse.jdt.core.prefs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="ApiProject.jmx" pinned="false" current-in-tab="false">
@@ -87,11 +89,6 @@
               <caret line="64" column="58" selection-start-line="64" selection-start-column="58" selection-end-line="64" selection-end-column="58" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="APIProject1.jmx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/jmeter/APIProject1.jmx">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="DataFile.csv" pinned="false" current-in-tab="false">
@@ -127,6 +124,11 @@
     </option>
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
@@ -151,7 +153,6 @@
   </component>
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
-    <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -164,6 +165,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,12 +217,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="ter&#9;ACTION&#9;ActivateTerminalToolWindow" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538955291966" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -284,6 +286,32 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="jmeter-results-detail-report_21.xsl" type="XSLT" factoryName="XSLT" temporary="true">
+      <option name="myOutputFile" value="" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" value="" />
+      <option name="myWorkingDirectory" value="" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <XsltFile url="file://$PROJECT_DIR$/src/test/resources/jmeter-results-detail-report_21.xsl" />
+      <XmlFile url="file://$PROJECT_DIR$/src/test/resources/jmeter-results-detail-report_21.xsl" />
+      <parameters>
+        <param name="titleReport" />
+        <param name="dateReport" />
+        <param name="Nil" />
+      </parameters>
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="HTML" />
+      <JdkChoice value="FROM_MODULE" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="XSLT.jmeter-results-detail-report_21.xsl" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -308,10 +336,10 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.12160229" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3286119" />
       <window_info anchor="right" id="Mongo Explorer" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.0014164306" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.51133144" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="3" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1416309" />
@@ -319,8 +347,8 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -341,6 +369,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/How to run it.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="34" selection-start-line="2" selection-end-line="2" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/jmeter/ApiProject.jmx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1800">
@@ -355,8 +390,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/jmeter/APIProject1.jmx">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/data/DataFile.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.settings/org.maven.ide.eclipse.prefs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="95" column="52" selection-start-line="95" selection-start-column="52" selection-end-line="95" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/jmeter/ApiProject.jmx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="120" column="106" selection-start-line="120" selection-start-column="106" selection-end-line="120" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/jmeter/ServiceApi.jmx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="64" column="58" selection-start-line="64" selection-start-column="58" selection-end-line="64" selection-end-column="58" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/DataFile.csv">
       <provider selected="true" editor-type-id="text-editor">
@@ -428,22 +495,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1425">
-          <caret line="95" column="52" selection-start-line="95" selection-start-column="52" selection-end-line="95" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/jmeter/ServiceApi.jmx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="960">
           <caret line="64" column="58" selection-start-line="64" selection-start-column="58" selection-end-line="64" selection-end-column="58" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/jmeter/APIProject1.jmx">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/How to run it.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -452,8 +509,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/jmeter-results-detail-report_21.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="82" lean-forward="true" selection-start-line="5" selection-start-column="82" selection-end-line="5" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="129" column="103" selection-start-line="129" selection-start-column="103" selection-end-line="129" selection-end-column="103" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
